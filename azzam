@@ -6,12 +6,12 @@ int I ;
 cin>>I;
 if(I%2==0)
 {
-cout<<"Even";
+cout<<"even";
 }
 
 else
 {
-cout<<"ODD";
+cout<<"odd";
 }
 
 
