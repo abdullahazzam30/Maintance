@@ -11,7 +11,7 @@ cout<<"Even";
 
 else
 {
-cout<<"Odd";
+cout<<"ODD";
 }
 
 
